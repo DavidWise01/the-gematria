@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1915
+slug  : the-gematria
+seal  : e98bed16e6ec8b98ed8426464f3da57ed2a66d83568812669a02582b1ca65ce0
+prev  : bb4bda7dabfef7996452001fbd47da7305ff2c57b1b240882544c17c47bf2dcb
+link  : 06b3134be2e77a0a74ac8d1f5c24cb222b1dbb69c3b3bfc775991d178b40c90d
+head  : 16651075227050e62a3d2d0290817d158cbd7dbf5e68d21f1c391f592ce6f58a
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
